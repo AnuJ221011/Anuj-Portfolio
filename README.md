@@ -1,4 +1,4 @@
-#  Abhinav's Personal Portfolio Website
+#  Anuj's Personal Portfolio Website
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -272,7 +272,7 @@ This project is personal, but contributions and suggestions are welcome!
 
 ### Let's Connect and Build Something Great!
 
-**Abhinav** — Full Stack Developer
+**Anuj Kumar** — Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)  
@@ -285,6 +285,6 @@ This project is personal, but contributions and suggestions are welcome!
 
 <div align="center">
   <h3>⭐ If you found this project interesting, consider starring the repository!</h3>
-  <p>Made with ❤️ by <strong>Abhinav</strong></p>
+  <p>Made with ❤️ by <strong>Anuj Kumar</strong></p>
   <p><em>Open to internship opportunities and collaborations</em></p>
 </div>
