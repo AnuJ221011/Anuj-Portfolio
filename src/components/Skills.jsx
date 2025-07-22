@@ -52,33 +52,28 @@ const skills = [
   { name: "Tailwind CSS", img: tailwindIcon, category: "Web Technologies", level: 90, color: "from-teal-400 to-cyan-500" },
   { name: "Node.js", img: nodejsIcon, category: "Web Technologies", level: 80, color: "from-green-500 to-emerald-600" },
   { name: "REST APIs", img: apiIcon, category: "Web Technologies", level: 85, color: "from-purple-500 to-pink-500" },
+  { name: "Express", img: apiIcon, category: "Web Technologies", level: 85, color: "from-purple-500 to-pink-500" },
+
 
   // Databases
   { name: "MongoDB", img: mongodbIcon, category: "Databases", level: 82, color: "from-green-600 to-green-800" },
   { name: "MySQL", img: mysqlIcon, category: "Databases", level: 78, color: "from-blue-600 to-orange-500" },
-  { name: "Firebase", img: firebaseIcon, category: "Databases", level: 85, color: "from-yellow-500 to-red-500" },
 
   // Tools & Platforms
   { name: "Git", img: gitIcon, category: "Tools & Platforms", level: 88, color: "from-orange-500 to-red-600" },
   { name: "GitHub", img: githubIcon, category: "Tools & Platforms", level: 90, color: "from-gray-700 to-black" },
   { name: "Postman", img: postmanIcon, category: "Tools & Platforms", level: 85, color: "from-orange-500 to-red-500" },
   { name: "Docker", img: dockerIcon, category: "Tools & Platforms", level: 70, color: "from-blue-500 to-cyan-500" },
-  { name: "GitHub Actions", img: githubActionsIcon, category: "Tools & Platforms", level: 75, color: "from-gray-600 to-blue-600" },
   { name: "VS Code", img: vscodeIcon, category: "Tools & Platforms", level: 95, color: "from-blue-600 to-cyan-500" },
 
   // Deployment
   { name: "Vercel", img: vercelIcon, category: "Deployment", level: 88, color: "from-gray-900 to-black" },
   { name: "Netlify", img: netlifyIcon, category: "Deployment", level: 85, color: "from-teal-400 to-cyan-500" },
   { name: "Render", img: renderIcon, category: "Deployment", level: 80, color: "from-purple-500 to-pink-500" },
-  { name: "Firebase Hosting", img: firebaseIcon, category: "Deployment", level: 82, color: "from-yellow-500 to-red-500" },
 
   // Design
   { name: "Figma", img: figmaIcon, category: "Design", level: 78, color: "from-purple-500 to-pink-500" },
 
-  // Others
-  { name: "Firebase Auth", img: firebaseIcon, category: "Others", level: 85, color: "from-yellow-500 to-red-500" },
-  { name: "Chrome DevTools", img: chromeIcon, category: "Others", level: 88, color: "from-red-500 to-yellow-500" },
-  { name: "Markdown", img: markdownIcon, category: "Others", level: 90, color: "from-gray-600 to-gray-800" },
 
   // ML & Data
   { name: "NumPy", img: numpyIcon, category: "ML & Data", level: 80, color: "from-blue-600 to-cyan-600" },
@@ -94,7 +89,6 @@ const categories = [
   "Tools & Platforms",
   "Deployment",
   "Design",
-  "Others",
   "ML & Data"
 ];
 
